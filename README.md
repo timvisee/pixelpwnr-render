@@ -1,3 +1,9 @@
+**This repository has been archived, and its contents have been merged into `pixelpwnr-server`:**
+- [`pixelpwnr-server`](https://github.com/timvisee/pixelpwnr-server)
+- [`pixelpwnr-server/render`](https://github.com/timvisee/pixelpwnr-server/tree/master/render)
+
+---
+
 # pixelpwnr render (WIP, prototype)
 A blazingly fast GPU accelerated [pixelflut][pixelflut] ([video][pixelflut-video])
 renderer in [Rust][rust], for use in a high performance pixelflut server.
